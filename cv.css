@@ -1,0 +1,38 @@
+h1 { 
+    display: inline;
+     
+    background-color: brown;
+    padding: 50px; 
+    padding-left: 100px; 
+    position: absolute;
+    left: 400px; 
+    padding-right: 100px; 
+    text-align: left; 
+    border: 5px solid black; 
+     
+    
+}  
+mark{ 
+    background-color: black; 
+    color: aliceblue;
+    font-size: large;
+} 
+ul{ 
+    margin-top: 50px; 
+    margin-left: 90px;
+    line-height: 40px; 
+ 
+} 
+li{ 
+    margin-left: 50px; 
+} 
+dl{ 
+    line-height: 40px; 
+    margin-top: 40px; 
+    margin-left: 130px; 
+} 
+h6{ 
+    color: firebrick;
+    opacity: 0.5; 
+    line-height: 0.5; 
+}
